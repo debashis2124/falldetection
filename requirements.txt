@@ -1,0 +1,13 @@
+# Core scientific stack
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Deep learning (PyTorch)
+torch
+torchvision
+torchaudio
+
+# Utilities
+tqdm
